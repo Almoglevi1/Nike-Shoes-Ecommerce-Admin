@@ -1,4 +1,4 @@
-# Nike Shoes E-commerce Admin Panel
+# Nike Shoes E-commerce Admin
 
 This is a Next.js project for an ecommerce admin panel. It provides a user interface for managing products, orders, and categories.
 
@@ -62,4 +62,11 @@ The Ecommerce Admin Panel exposes a RESTful API for integrating with other syste
 ## Acknowledgments
 
 The product images and details used in this project are sourced from the official Nike website. I acknowledge and appreciate the high-quality images and detailed product descriptions provided by Nike.   
-Please note that these images and product details are used for educational and illustrative purposes only.  
+Please note that these images and product details are used for educational and illustrative purposes only. 
+
+##
+https://github.com/Almoglevi1/Nike-Shoes-Ecommerce-Admin/assets/104142355/d3077419-558a-44e8-b262-6aae6d9489e1
+
+
+
+
